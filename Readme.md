@@ -34,6 +34,6 @@ Hi,我是烟波。<br>
 
 
 ### 下学期
-- 稀里糊涂参加了学校的电子竞赛 校赛
-（就我一个大一的去了......）
+- 稀里糊涂参加了学校的电子竞赛 校赛<br>
+（我以为去开会，结果一进来直接说是校赛……<br>我带着我的Mac，啥protus keil5 全没有装……<br>于是拿线上EDA搞的原理图……<br>后来签字的时候才知道，<br>就我一个大一的去了......）
   - [答题情况](https://github.com/yanboishere/The-four-year-journey-of-a-student-majoring-in-electronic-information-engineering/tree/master/%E5%A4%A7%E4%B8%80/%E5%90%89%E6%9E%97%E7%9C%81%E7%94%B5%E5%AD%90%E8%AE%BE%E8%AE%A1%E7%AB%9E%E8%B5%9B-%E6%A0%A1%E8%B5%9B)（仅答一题，二题未答）
