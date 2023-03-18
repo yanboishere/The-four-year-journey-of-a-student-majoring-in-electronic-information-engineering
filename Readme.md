@@ -18,7 +18,7 @@ Hi,我是烟波。<br>
   - 吉林省电子设计竞赛
   - 蓝桥杯
 - 学HTML
-  - [Acwing - Web应用课]https://www.acwing.com/activity/content/1150/]
+  - [Acwing - Web应用课](https://www.acwing.com/activity/content/1150/)
 - 复习C++
 - 学 git 
   - [图书 《跟Wakaba酱一起学Git使用》](https://book.douban.com/subject/35274988/)<br>
