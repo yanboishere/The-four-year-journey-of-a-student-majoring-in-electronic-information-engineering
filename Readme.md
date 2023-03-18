@@ -42,4 +42,4 @@ Hi,我是烟波。<br>
   与当时刚进实验室 自动化的王美超同学<br>
   组队 报告
   - [L298N-讲解PPT](https://github.com/yanboishere/The-four-year-journey-of-a-student-majoring-in-electronic-information-engineering/blob/master/%E5%A4%A7%E4%B8%80/L298N%20%E5%AE%9E%E9%AA%8C%E5%AE%A4%E5%B0%8F%E7%BB%84%E5%B1%95%E7%A4%BA%20PPT.pptx)<br>
-   （非常简陋哈哈）
+   （做的非常简陋哈哈 但讲解的还可）
