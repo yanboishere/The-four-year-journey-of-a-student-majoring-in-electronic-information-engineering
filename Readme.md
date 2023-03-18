@@ -28,3 +28,6 @@ Hi,我是烟波。<br>
   - [江科大自化协 51单片机 教程视频](https://www.bilibili.com/video/BV1Mb411e7re/?spm_id_from=333.999.0.0)<br>
    <br><br><br>
 (大一上 能想起来的就这些哈哈)
+
+### 下学期
+（就我一个大一的去了......）
