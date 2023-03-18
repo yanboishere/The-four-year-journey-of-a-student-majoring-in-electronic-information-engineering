@@ -17,4 +17,8 @@ Hi,我是烟波。<br>
 - 报名竞赛
   - 吉林省电子设计竞赛
   - 蓝桥杯
+- 学HTML
+- 复习C++
+- 学 git
+- 学C51 51单片机开发 [江科大自化协 51单片机 教程视频](https://www.bilibili.com/video/BV1Mb411e7re/?spm_id_from=333.999.0.0)
   
