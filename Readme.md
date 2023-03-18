@@ -39,5 +39,5 @@ Hi,我是烟波。<br>
   - [答题情况](https://github.com/yanboishere/The-four-year-journey-of-a-student-majoring-in-electronic-information-engineering/tree/master/%E5%A4%A7%E4%B8%80/%E5%90%89%E6%9E%97%E7%9C%81%E7%94%B5%E5%AD%90%E8%AE%BE%E8%AE%A1%E7%AB%9E%E8%B5%9B-%E6%A0%A1%E8%B5%9B)<br>
    （仅答一题，二题未答）
 - 参加实验室内部小组报告会 与当时刚进实验室 自动化的王美超同学组队 报告
-  - [L298N-讲解PPT]()
+  - [L298N-讲解PPT](https://github.com/yanboishere/The-four-year-journey-of-a-student-majoring-in-electronic-information-engineering/blob/master/%E5%A4%A7%E4%B8%80/L298N%20%E5%AE%9E%E9%AA%8C%E5%AE%A4%E5%B0%8F%E7%BB%84%E5%B1%95%E7%A4%BA%20PPT.pptx)
    （非常简陋哈哈）
