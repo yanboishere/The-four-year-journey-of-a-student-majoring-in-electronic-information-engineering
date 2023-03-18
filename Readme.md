@@ -33,5 +33,5 @@ Hi,我是烟波。<br>
 
 ### 下学期
 - 参加小组报告会 与王美超同学组队 报告
-  - [L298N-讲解PPT]()
+  - [L298N-讲解PPT](https://github.com/yanboishere/The-four-year-journey-of-a-student-majoring-in-electronic-information-engineering/blob/master/%E5%A4%A7%E4%B8%80/L298N%20%E5%B0%8F%E7%BB%84%E5%B1%95%E7%A4%BA%20PPT.pptx)
    （非常简陋哈哈）
