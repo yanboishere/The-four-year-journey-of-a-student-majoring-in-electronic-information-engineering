@@ -19,8 +19,10 @@ Hi,我是烟波。<br>
   - 蓝桥杯
 - 学HTML
 - 复习C++
-- 学 git [图书 跟Wakaba酱一起学Git使用](https://book.douban.com/subject/35274988/)<br>
+- 学 git 
+  - [图书 跟Wakaba酱一起学Git使用](https://book.douban.com/subject/35274988/)<br>
   （很有意思的一本书 能学到一点简单基本的git知识）
-- 学C51 51单片机开发 [江科大自化协 51单片机 教程视频](https://www.bilibili.com/video/BV1Mb411e7re/?spm_id_from=333.999.0.0)<br>
+- 学C51 51单片机开发 
+  - [江科大自化协 51单片机 教程视频](https://www.bilibili.com/video/BV1Mb411e7re/?spm_id_from=333.999.0.0)<br>
    （实验室成员必修课 hh）
   
